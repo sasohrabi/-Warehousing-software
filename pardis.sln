@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "pardis", "pardis.vbproj", "{B427D1B6-1359-4C9C-A2D8-AAA6FEEDED49}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "..\Setup1\Setup1.vdproj", "{644B85F3-9DEB-4076-84E5-C093046884F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8D5B188A-83B6-4ECA-9DC4-83C2A0C153D8}"
+	ProjectSection(SolutionItems) = preProject
+		reverse\pardis.vsd = reverse\pardis.vsd
+		rpt3.rpt = rpt3.rpt
+		rpt3.vb = rpt3.vb
+		rpt4.rpt = rpt4.rpt
+		rpt4.vb = rpt4.vb
+		rpt5.rpt = rpt5.rpt
+		rpt5.vb = rpt5.vb
+		rpt6.rpt = rpt6.rpt
+		rpt6.vb = rpt6.vb
+		rptsellfactor.rpt = rptsellfactor.rpt
+		rptsellfactor.vb = rptsellfactor.vb
+		rptupdelsellfactor.rpt = rptupdelsellfactor.rpt
+		rptupdelsellfactor1.vb = rptupdelsellfactor1.vb
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		ctrl+f5|Any CPU = ctrl+f5|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		start without debugging|Any CPU = start without debugging|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B427D1B6-1359-4C9C-A2D8-AAA6FEEDED49}.ctrl+f5|Any CPU.ActiveCfg = ctrl+f5|Any CPU
+		{B427D1B6-1359-4C9C-A2D8-AAA6FEEDED49}.ctrl+f5|Any CPU.Build.0 = ctrl+f5|Any CPU
+		{B427D1B6-1359-4C9C-A2D8-AAA6FEEDED49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B427D1B6-1359-4C9C-A2D8-AAA6FEEDED49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B427D1B6-1359-4C9C-A2D8-AAA6FEEDED49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B427D1B6-1359-4C9C-A2D8-AAA6FEEDED49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B427D1B6-1359-4C9C-A2D8-AAA6FEEDED49}.start without debugging|Any CPU.ActiveCfg = start without debugging|Any CPU
+		{B427D1B6-1359-4C9C-A2D8-AAA6FEEDED49}.start without debugging|Any CPU.Build.0 = start without debugging|Any CPU
+		{644B85F3-9DEB-4076-84E5-C093046884F9}.ctrl+f5|Any CPU.ActiveCfg = Release
+		{644B85F3-9DEB-4076-84E5-C093046884F9}.Debug|Any CPU.ActiveCfg = Debug
+		{644B85F3-9DEB-4076-84E5-C093046884F9}.Release|Any CPU.ActiveCfg = Release
+		{644B85F3-9DEB-4076-84E5-C093046884F9}.start without debugging|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE dotfuscator SYSTEM "http://www.preemptive.com/dotfuscator/dtd/dotfuscator_v2.1.dtd">
+<dotfuscator version="2.1">
+  <!--This is application generated code. Do not edit manually.-->
+  <input>
+    <asmlist>
+      <inputassembly>
+        <file dir="H:\saeed\SAEED PROJECT\VB.NET\pardis 2\pardis\bin\Debug" name="pardis2.exe" />
+      </inputassembly>
+    </asmlist>
+  </input>
+  <output>
+    <file dir="J:" />
+  </output>
+  <tempdir>
+    <file dir="J:" />
+  </tempdir>
+  <renaming>
+    <option>keepnamespace</option>
+    <excludelist>
+      <module name="pardis2.exe" assemblyname="pardis2" />
+    </excludelist>
+    <mapping>
+      <mapoutput overwrite="false">
+        <file dir="H:\saeed\SAEED PROJECT\VB.NET\pardis 2\pardis\bin\Debug" name="pardis2.xml" />
+      </mapoutput>
+    </mapping>
+  </renaming>
+</dotfuscator>
